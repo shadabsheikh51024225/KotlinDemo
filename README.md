@@ -13,3 +13,7 @@ you will get to know about
 - loops in kotlin.
 - range in kotlin. 
 - NULL SAFE PROGRAMING DEMONSTRATION.
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>GO TO MainActivity.class<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
