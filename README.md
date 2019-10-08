@@ -14,6 +14,4 @@ you will get to know about
 - range in kotlin. 
 - NULL SAFE PROGRAMING DEMONSTRATION.
 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>GO TO MainActivity.class<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+----------START FROM MainActivity.class-------------
